@@ -1,5 +1,5 @@
-ASSET_PREFIX = "";
-SCRIPT_PREFIX = "";
+ASSET_PREFIX = "https://cdn.jsdelivr.net/gh/zackz2016/chair2/";
+SCRIPT_PREFIX = "https://cdn.jsdelivr.net/gh/zackz2016/chair2/";
 SCENE_PATH = "1070654.json";
 CONTEXT_OPTIONS = {
     'antialias': true,
